@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+requests
+bandit
+safety
+python-dotenv
+pytest
+pytest-cov
